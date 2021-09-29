@@ -10,9 +10,9 @@
  - [Dependencies](https://github.com/Himanshu0221/Arya.Ai-Assesment/blob/main/dependencies.txt)
 
 ## Dataset
-Train Dataset Shape  (3909,58), 
+Train Dataset Shape  (3910,57), 
 
-Test Dataset Shape (690,58)
+Test Dataset Shape (691,57)
 
   
 ## Approach & Key Steps
